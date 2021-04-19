@@ -16,4 +16,4 @@
 * Future Work : 
   - In the future, I will incorporate additional features including fundamentals data, market sector, and economy indicators to improve data. 
 
-# Author: Xun Xun Shi 
+### Author: Xun Xun Shi 
