@@ -23,7 +23,7 @@
 * Layer 2-4: 100 neurons in RNN
 * Layer 5 (output): Dense layer  
 * Early stopping implemented epochs of 50 while monitoring validation data 
-* Loss function: Huber loss with delta of 1.5 
+* Loss function: Huber loss with delta of 0.01 
 
 ###  Testset Result: 
 * The trained network is used to predict the next ten days of stock price from the test set.
