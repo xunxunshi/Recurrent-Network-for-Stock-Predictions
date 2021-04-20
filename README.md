@@ -1,4 +1,4 @@
-# Recurrent-Network-for-Stock-Predictions 
+# Recurrent Network for Stock Predictions 
 ## The project aims to use recurrent network to predict for future stock prices (next 10 days). 
 ### Data 
 * Data was aggregated using  yahoo finance API for 27 different stocks in the DOW Index. 
